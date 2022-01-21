@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: rgb(6, 6, 63);
+  }
+
+.button {
+  background-color: #4CAF50;
+}
+
+.card {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  width: 8rem;
+}
+
+h1{
+  color: oldlace;
+  text-align: center;
+}
+
+h4{
+  color: oldlace;
+  text-align: center;
+}
+.center{
+  display: block;
+  text-align: center;
+}
+
+h2{
+  color: oldlace;
+}
+
+ul{
+  color: oldlace;
+}
+
+li{
+  color: oldlace;
+}
+p{
+  color: oldlace;
+  overflow-wrap: break-word;
+}
